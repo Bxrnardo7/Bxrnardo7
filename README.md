@@ -1,13 +1,15 @@
 # Olá! Sou o Bernardo Almeida Andrade 👋
 
-Sou um desenvolvedor em formação, apaixonado por engenharia de software e criação de interfaces dinâmicas. Atualmente, concilio meus estudos acadêmicos com minha vivência prática no setor de produção.
+Sou um desenvolvedor em formação, apaixonado por engenharia de software e criação de interfaces dinâmicas. Atualmente, concilio os meus estudos académicos com a minha vivência prática no setor de produção.
 
 - 🎓 Graduando em **Sistemas de Informação** na PUC Minas.
 - 💼 Jovem Aprendiz na **RHI Magnesita**, com foco em suporte administrativo e dados.
-- 🚀 Estudando e desenvolvendo projetos envolvendo Full-Stack, UI/UX e automação.
-- 🌍 Aprimorando continuamente meu inglês voltado para o mercado de tecnologia.
+- 🚀 A estudar e a desenvolver projetos que envolvem Full-Stack, UI/UX e automação.
+- 🌍 A aprimorar continuamente o meu inglês voltado para o mercado de tecnologia.
 
-### 🛠️ Tecnologias e Ferramentas
+<br>
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline-block"><br>
   <!-- Front-end & UI -->
@@ -30,7 +32,7 @@ Sou um desenvolvedor em formação, apaixonado por engenharia de software e cria
 
 <br>
 
-### 📫 Como me encontrar
+## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-a-andrade)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bernardoalandrade@gmail.com)
